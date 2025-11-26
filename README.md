@@ -1,4 +1,4 @@
-**L2 Informatique**
+**Projet de Base de données L2 Informatique**
 
 ---
 
