@@ -235,5 +235,3 @@ Associe les séries aux personnages qui y apparaissent.
 ---
 
 ---
-
-![image.png](attachment:0a509578-4c95-4491-a032-8e9c7991b596:image.png)
