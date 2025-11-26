@@ -209,7 +209,7 @@ Associe les séries aux personnages qui y apparaissent.
 
 **Avec attributs :**
 
-![StarWars E_A avec attributs.drawio.svg](attachment:553eb62a-57ea-4062-a1b6-fd6b7378b859:StarWars_E_A_avec_attributs.drawio.svg)
+![Starwars EA avec attributs](Shémas/StarWars_E_A_avec_attributs.drawio.svg)
 
 **Légende :**
 
@@ -222,7 +222,7 @@ Associe les séries aux personnages qui y apparaissent.
 
 **Sans attributs :**
 
-![Starwars_sans_attributs.drawio.svg](attachment:074a8112-fabf-4c38-9ad2-8347680c693b:Starwars_sans_attributs.drawio.svg)
+![Starwars EA avec attributs](Shémas/StarWars_E_A_avec_attributs.drawio.svg)
 
 **Légende :**
 
