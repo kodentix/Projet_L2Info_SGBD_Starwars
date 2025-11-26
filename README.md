@@ -23,7 +23,7 @@ L’objectif est de modéliser puis d’implémenter une base de données compl�
 - Définition des entités retenus, attributs et cardinalités  
 - Création du modèle E/A et justification complète  
 
-[Voir Etape 1](Projet/1ere_Etape/Etape1_Modélisation)
+[Voir Etape 1](Projet/1ere_Etape/Etape1_Modélisation.pdf)
 
 Contenu :
 - Entités : Films, Séries, Personnages
