@@ -1,5 +1,5 @@
-# Projet Base de Données — Univers Star Wars  
-Licence 2 Informatique — Projet Base de Données (2025)
+# Projet Base de Données - Univers Star Wars  
+Licence 2 Informatique - Projet Base de Données (2025)
 
 ---
 
@@ -17,7 +17,7 @@ L’objectif est de modéliser puis d’implémenter une base de données compl�
 
 ## Travail Réalisé
 
-### Étape 1 — Modélisation (E/A)
+### Étape 1 - Modélisation (E/A)
 
 - Analyse des entités possible  
 - Définition des entités retenus, attributs et cardinalités  
@@ -32,9 +32,9 @@ Contenu :
 
 ---
 
-### Étape 2 — Implémentation SQL
+### Étape 2 - Implémentation SQL
 
-En cours  
+[Voir Etape 2](Projet/2eme_Etape/Etape2_Transformation_E_A_Relation.pdf)
 
 Contenu :
 - Transformation du modèle E/A vers modèle relationnel
